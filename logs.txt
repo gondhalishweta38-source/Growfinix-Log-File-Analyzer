@@ -1,0 +1,8 @@
+INFO: User login successful
+ERROR 404: Page not found
+ERROR 500: Internal server error
+INFO: User logout
+ERROR 404: Page not found
+ERROR 403: Access denied
+ERROR 500: Internal server error
+ERROR 500: Internal server error
